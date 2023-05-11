@@ -1,4 +1,4 @@
-## Analysis-Of-UK-Used-Cars
+## ANALYSIS OF UK USED CARS
 
 A pre-owned vehicle, also known as a used car or second hand car, is a vehicle that has been previously owned by one or more retail owners. 
 
@@ -58,7 +58,7 @@ The image below is a representation of the visualization
  ![Used Car Report Image](https://github.com/olajumokeabe/Analysis-Of-UK-Used-Cars/assets/125363157/09ac71a4-2ecb-430b-a1e3-94ec3930a491)
 
  
-  # INSIGHTS
+  # Insights
 
 The minimum age of UK used cars is 3 years
 
