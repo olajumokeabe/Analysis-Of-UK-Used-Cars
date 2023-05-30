@@ -1,12 +1,11 @@
 ## ANALYSIS OF UK USED CARS
 
-A pre-owned vehicle, also known as a used car or second hand car, is a vehicle that has been previously owned by one or more retail owners. 
-
-![hypatia-h_3752fa0ea1ecc7009b18e6ee3e4992e8-h_e75109965c65ffd0ffb98e0367bf9ad5-300](https://github.com/olajumokeabe/Analysis-Of-UK-Used-Cars/assets/125363157/aa143a56-96dc-4032-bbdd-60b2ef960e6a)
-
 # Introduction
 
+A pre-owned vehicle, also known as a used car or second hand car, is a vehicle that has been previously owned by one or more retail owners. 
 These types of cars are available for purchase through various channels, such as franchise and independent car dealerships, rental car companies, buy here pay here dealerships, leasing offices, auctions, and private sale.
+
+![hypatia-h_3752fa0ea1ecc7009b18e6ee3e4992e8-h_e75109965c65ffd0ffb98e0367bf9ad5-300](https://github.com/olajumokeabe/Analysis-Of-UK-Used-Cars/assets/125363157/aa143a56-96dc-4032-bbdd-60b2ef960e6a)
 
 
 # Data Gathering
